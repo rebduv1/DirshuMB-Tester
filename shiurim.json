@@ -1,0 +1,14 @@
+{
+  "shul": "Khal Sunset Grove Sefard",
+  "series": "Dirshu Mishnah Berurah",
+  "maggidShiur": "ר׳ דוד קליין",
+  "_howto": "Name the file MB-OC-<siman>-<skFrom>-<skTo>-<Topic-In-Hyphens>.mp3 with three digits for each number, then add the path here as one line. Everything shown on the page comes from the filename. To cross into the next siman: MB-OC-429-014-to-430-003-Topic.mp3. If you want a topic with apostrophes or punctuation, use the object form instead: { \"file\": \"audio/....mp3\", \"topic\": \"Ma'os chittim\" } - that overrides the filename.",
+  "shiurim": [
+    "audio/MB-OC-429-001-004-Shoalin-vDorshin-Shloshim-Yom-Kodem-HaPesach.mp3",
+    "audio/MB-OC-429-005-014-Maos-Chittim-and-Hilchos-Chodesh-Nissan.mp3",
+    "audio/MB-OC-430-001-to-431-006-Shabbos-HaGadol-and-Bedikas-Chametz.mp3",
+    "audio/MB-OC-431-007-to-432-006-Bedika-Bittul-and-Biur-Chametz-.mp3",
+    "audio/MB-OC-432-007-to-433-001-Bedikas-Shluchim-and-Bedika-lOhr-haNer.mp3",
+    "audio/MB-OC-433-002-017-Bedika-Mekomos-and-Derech-Bedika.mp3"
+  ]
+}
